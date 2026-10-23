@@ -1,0 +1,6 @@
+print ("Hi, My name is Eshanth")
+print (1)
+print (1,2,3,4,5)
+print ("hello \n world")
+print ("hello",end="star")
+print ("world")
